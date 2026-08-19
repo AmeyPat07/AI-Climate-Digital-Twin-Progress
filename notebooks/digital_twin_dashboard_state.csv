@@ -1,0 +1,2 @@
+reference_date,current_temperature_C,current_anomaly_C,current_status,monthly_climatology_C,forecast_date,predicted_temperature_C,predicted_anomaly_C,extreme_heat_risk,forecast_model,forecast_mae_C,forecast_rmse_C,extreme_heat_recall_pct
+2024-12-29,29.56,-0.21,Near normal,29.77,2024-12-30,29.57,-0.2,False,Minimal Linear Regression,0.6143,0.8869,66.67
